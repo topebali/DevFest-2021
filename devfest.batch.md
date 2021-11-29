@@ -107,6 +107,6 @@ changesetTemplate:
 
 5. Click **Apply** to create the batch change.
 
-**You’ve now created your first batch change!
+**You’ve now created your first batch change!**
 
 For more information on Batch change visit our Batch changes [page](https://docs.sourcegraph.com/batch_changes/quickstart) in our Documentation.
