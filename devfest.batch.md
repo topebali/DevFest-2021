@@ -44,7 +44,7 @@ description: Add Welcome to devFest to READMEs
 
 # Find all repositories that contain a README.md file.
 on:
-  - repository: github.com/topebali/test_batch
+  - repository: github.com/topebali/demo_batchchanges
 
 # In each repository, run this command. Each repository's resulting diff is captured.
 steps:
@@ -71,7 +71,7 @@ description: This batch change updates our Python scripts to use the terms "num1
 # Search for repositories in which the term "number" or "employee_details" appears
 # in python files.
 on:
-  - repository: github.com/topebali/test_wordreplace
+  - repository: github.com/topebali/wordreplace_batchchanges
 
 # In each repository
 steps:
